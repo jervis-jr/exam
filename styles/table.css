@@ -91,7 +91,7 @@
     position: fixed;
     top: 0;
     width: 320px;
-    height: 1080px;
+    height: 100vh;
     background-color: #222222;
     color: #FFFFFF;
     padding: 30px;
